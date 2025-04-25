@@ -1,0 +1,13 @@
+name: functional
+description: A lightweight library providing a small set of functional programming utilities for Dart.
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  meta: 
+
+dev_dependencies:
+  test: 
+  lints:
